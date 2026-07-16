@@ -1,6 +1,5 @@
 """
 Future Shock Index — Global Resilience Dashboard
-Single-file Streamlit application (app.py)
 Run: streamlit run app.py
 """
 
